@@ -1,0 +1,6 @@
+-rw-r--r-- 1 Administrator 197121      112 Oct 12 18:03  bootTel.dat
+drwxr-xr-x 1 Administrator 197121        0 Oct 18 19:40  vSVN/
+-rw-r--r-- 1 Administrator 197121 75714509 Aug 25 23:58  夸克浏览器.apk
+drwxr-xr-x 1 Administrator 197121        0 Oct 18 17:13  新建文件夹/
+drwxr-xr-x 1 Administrator 197121        0 Oct 18 17:24 '新建文件夹 (2)'/
+drwxr-xr-x 1 Administrator 197121        0 Jul 22 09:39  福昕/
