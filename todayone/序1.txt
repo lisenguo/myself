@@ -1,0 +1,5 @@
+drwxr-xr-x 1 Administrator 197121        0 Oct  9 18:11  WXDrive/
+drwxr-xr-x 1 Administrator 197121        0 Oct  9 18:11  WXWork/
+drwxr-xr-x 1 Administrator 197121        0 Sep 11 15:51  WanPicture/
+drwxr-xr-x 1 Administrator 197121        0 Sep 24 14:44  WinHexzjbpjb_49772/
+
